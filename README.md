@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ### Copyright
 Bez
+
+#### Hot to contribute
+just added a freaking file
